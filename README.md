@@ -7,4 +7,4 @@
 
   ![cankatx's github stats](https://github-readme-stats.vercel.app/api?username=cankatx&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
- <a href="https://discord.com/users/852647560744796181" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/852647560744796181"></a>
+### <a href="https://discord.com/users/852647560744796181" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/852647560744796181"></a>
