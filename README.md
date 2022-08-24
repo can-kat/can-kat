@@ -2,7 +2,7 @@
 
 
 
-- Discord: [cankat#1337](https://discord.com/users/893607275716038727)
+- Discord: [criminal#3133](https://discord.com/users/893607275716038727)
 
 
 
