@@ -2,7 +2,7 @@
 
 
 
-- Discord: [cankat#7331](https://discord.com/users/233185293090553857)
+- Discord: [cankat#1337](https://discord.com/users/1020720769619214407)
 
 
 
