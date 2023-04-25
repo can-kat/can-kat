@@ -10,7 +10,7 @@
 
 ![cankatx's GitHub stats](https://github-readme-stats.vercel.app/api?username=cankatx&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
