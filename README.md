@@ -6,7 +6,3 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=can-kat)
-
-
-
